@@ -1,1 +1,1 @@
-# ulti-sacco-management-system
+# Multi-sacco-management-system
